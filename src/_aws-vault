@@ -12,9 +12,6 @@ _vault_cmds() {
         'exec:Executes a command with AWS credentials in the environment'
         'remove:Removes credentials, including sessions'
         'login:Generate a login link for the AWS Console'
-        '-a'
-        '-b'
-        '-c'
     )
     _describe 'command' commands
 }
