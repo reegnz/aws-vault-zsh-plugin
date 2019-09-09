@@ -1,5 +1,7 @@
 # AWS-Vault ZSH Plugin
 
+[![asciicast](https://asciinema.org/a/266736.svg)](https://asciinema.org/a/266736)
+
 ## Installation
 
 ### [Antigen](https://github.com/zsh-users/antigen)
