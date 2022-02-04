@@ -1,4 +1,7 @@
 # AWS-Vault ZSH Plugin
+## DEPRECATED This plugin is not maintained anymore. Use https://github.com/blimmer/zsh-aws-vault instead. The completion script has been contributed to that repo so you get the exact same thing.
+
+
 
 [![asciicast](https://asciinema.org/a/266736.svg)](https://asciinema.org/a/266736)
 
